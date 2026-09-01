@@ -130,3 +130,13 @@ body { font-family: var(--font-geist), Arial, Helvetica, sans-serif; }
     @apply font-sans;
   }
 }
+
+.theme-dark main { background: #0d1726; color: #edf4ff; }
+.theme-dark .bg-white, .theme-dark .currency-select { background: #17263a !important; }
+.theme-dark .bg-slate-50, .theme-dark .refresh-button { background: #203248 !important; }
+.theme-dark .bg-\[\#eaf3ff\] { background: #17385f !important; }
+.theme-dark .text-slate-500, .theme-dark .text-slate-600, .theme-dark .text-slate-400 { color: #a9bbd2 !important; }
+.theme-dark .text-\[\#122238\], .theme-dark h1, .theme-dark h2, .theme-dark b { color: #edf4ff !important; }
+.theme-dark .border-slate-200, .theme-dark .border-t { border-color: #2b405a !important; }
+.theme-dark .theme-toggle { background: #203248 !important; color: #dbeafe !important; }
+.theme-dark .popular-pair { background: #17263a !important; }
